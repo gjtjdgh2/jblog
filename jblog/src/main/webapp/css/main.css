@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+*				{ margin:0; padding:0 }
+body			{ font:0.75em "맑은 고딕", 돋움, 굴림; text-align:center; background-color:#FFF; }
+ul, ol			{ list-style-type: none; float:letf;}
+
+div#header	li		{  font-size:25px;float:left; margin-left: 20px;}
+div#navigation li a:link	{ color:#4F4F4F; text-decoration:none; }
+div#header li a	{ color:#4F4F4F; text-decoration:none; text-decoration-line: none;}
+
+div#header ul {text-align: center;}
+
+
+
